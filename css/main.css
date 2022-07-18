@@ -9,23 +9,23 @@ html *
 }
 
 .carousel-image-1 {
-   background-image: url("/image/pic1.jpg");
+   background-image: url("image/pic1.jpg");
    background-size: cover;
    
 }
 
 .carousel-image-2 {
-   background-image: url("/image/pic2.jpg");
+   background-image: url("image/pic2.jpg");
 }
 
 .carousel-image-3 {
-   background-image: url("/image/pic3.jpg");
+   background-image: url("image/pic3.jpg");
 }
 
 #about {
    min-height: 200px;
    position: relative;
-   background-image: url("/image/iceland.jpg");
+   background-image: url("image/iceland.jpg");
    background-size: cover;
    background-repeat: no-repeat;
    text-align: center;
